@@ -1,0 +1,24 @@
+{
+  "window": [
+    "2025-11-08",
+    "2026-11-08"
+  ],
+  "N": 197,
+  "T": 244,
+  "r_main": 0.6,
+  "edges": 245,
+  "density": 0.012690355329949238,
+  "alpha_mle": 2.2132023662268416,
+  "r2_exp": 0.9893776466215832,
+  "r2_pow": 0.9090447408590757,
+  "avg_clustering": 0.26844812119599565,
+  "random_avg_clustering": 0.009375874407600295,
+  "homophily_observed": 0.6326530612244898,
+  "homophily_expected": 0.10505295163493003,
+  "homophily_ratio": 6.022230231312541,
+  "permutation_p": 0.0004997501249375312,
+  "mp_edge": 3.604460296200708,
+  "largest_eigenvalue": 60.21062170506538,
+  "mean_pairwise_rho": 0.2789947124571651,
+  "n_eig_above_mp": 5
+}
